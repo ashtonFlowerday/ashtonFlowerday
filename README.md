@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Canadian-born South African who's currently a computer science student at the University of Pretoria. Most of my time is spent trying to get my code to work or pouring over textbooks as I try and get my degree.
+
 🔭 I’m currently working on graduating. It's a lot harder than it looks<br/>
 🌱 I’m currently learning a lot of new things. So is the life of a computer science major.<br/>
 🤔 I’m looking for help with compiler construction. If anyone could help me, please do.<br/>
